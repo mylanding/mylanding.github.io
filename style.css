@@ -1,0 +1,36 @@
+.nav navbar-nav >  li{
+  text-align: center;
+}
+#services {padding-top:50px;height: 500px;color: #696969;background-color: #fff;}
+#advantages {padding-top:50px;height: 500px;color:  #696969;background-color: #fff;}
+#feedback {padding-top:50px;height: 500px;color: #696969;background-color: #fff;}
+
+ul {
+  font-size: 20px;
+  font-family: sans-serif;
+  list-style-position: inside;
+  padding-left: 550px;
+}
+.list {
+  padding-left: 50px;
+  margin-top: 5px;
+}
+
+h1,h2,h3 {
+  text-align: center;
+}
+.tel {
+  width:300px;
+  height:50px;
+  background: #1E90FF; 
+  left: 1050px;
+  position: fixed;
+  z-index: 101;
+  color:  #fff;
+  font-style: italic;
+  font-size: 20px;
+  padding: 10px;
+}
+img {
+  margin: 0;
+}
